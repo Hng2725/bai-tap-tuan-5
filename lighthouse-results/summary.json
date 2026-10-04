@@ -1,0 +1,69 @@
+{
+  "measuredAt": "2026-10-01T03:11:08.576Z",
+  "runsPerPage": 3,
+  "mode": "mobile",
+  "before": {
+    "runs": [
+      {
+        "performance": 98,
+        "fcp": 1205.535,
+        "lcp": 1355.5349999999999,
+        "tbt": 151.5,
+        "cls": 0
+      },
+      {
+        "performance": 94,
+        "fcp": 1209.4243,
+        "lcp": 1209.4243,
+        "tbt": 289.28784999999993,
+        "cls": 0
+      },
+      {
+        "performance": 95,
+        "fcp": 1203.5485,
+        "lcp": 1203.5485,
+        "tbt": 271.72575000000006,
+        "cls": 0
+      }
+    ],
+    "median": {
+      "performance": 95,
+      "fcp": 1205.535,
+      "lcp": 1209.4243,
+      "tbt": 271.72575000000006,
+      "cls": 0
+    }
+  },
+  "after": {
+    "runs": [
+      {
+        "performance": 100,
+        "fcp": 1203.5666,
+        "lcp": 1203.5666,
+        "tbt": 0,
+        "cls": 0
+      },
+      {
+        "performance": 100,
+        "fcp": 1204.9082,
+        "lcp": 1204.9082,
+        "tbt": 0,
+        "cls": 0
+      },
+      {
+        "performance": 100,
+        "fcp": 1203.0314,
+        "lcp": 1203.0314,
+        "tbt": 0,
+        "cls": 0
+      }
+    ],
+    "median": {
+      "performance": 100,
+      "fcp": 1203.5666,
+      "lcp": 1203.5666,
+      "tbt": 0,
+      "cls": 0
+    }
+  }
+}
